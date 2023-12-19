@@ -235,7 +235,15 @@ section {
 
 .project-card:hover .project-image {
     opacity: 0.9;
- }
+}
+
+.project-card .project-image{
+    height: 70%;
+}
+
+.project-card project-info{
+    height: 30%;
+}
 
 .project-image img{
     width: 100%
